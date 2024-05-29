@@ -17,5 +17,5 @@ let passportMarried1 = {
     }
 };
 
-console.log(passportMarried);
 console.log(passportMarried1);
+console.log(passportMarried);
